@@ -1,0 +1,27 @@
+Physicochemical Property:
+ - LogS (Solubility)
+
+Absorption:
+ - LogPapp (Caco-2 Permeability)
+ - Pgp-inhibitor
+ - F (20% Bioavailability)
+
+Distribution:
+ - PPB (Plasma Protein Binding)
+ - BBB (Blood–Brain Barrier)
+
+Metabolism:
+ - CYP450 1A2 inhibitor
+ - CYP450 3A4 inhibitor
+ - CYP450 2C9 inhibitor
+ - CYP450 2C19 inhibitor
+ - CYP450 2D6 inhibitor
+
+Excretion:
+ - T 1/2 (Half Life)
+ - CL (Clearance)
+
+Toxicity:
+ - hERG (hERG Blockers)
+ - LD50 (LD50 of acute toxicity)
+
