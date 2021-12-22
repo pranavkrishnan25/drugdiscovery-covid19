@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+/*Training Model*/
 from copy import copy
 from lstm_chem.utils.config import process_config
 from lstm_chem.utils.dirs import create_dirs
