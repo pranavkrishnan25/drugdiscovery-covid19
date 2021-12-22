@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+/*Removing loose text*/
 import argparse
 import os
 from tqdm import tqdm
