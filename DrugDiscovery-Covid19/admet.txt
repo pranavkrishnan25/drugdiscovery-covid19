@@ -8,7 +8,7 @@ Absorption:
 
 Distribution:
  - PPB (Plasma Protein Binding)
- - BBB (Blood–Brain Barrier)
+ - BBB (Blood Brain Barrier)
 
 Metabolism:
  - CYP450 1A2 inhibitor
